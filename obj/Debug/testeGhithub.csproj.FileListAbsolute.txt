@@ -1,0 +1,7 @@
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\bin\Debug\testeGhithub.exe.config
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\bin\Debug\testeGhithub.exe
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\bin\Debug\testeGhithub.pdb
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\obj\Debug\testeGhithub.csproj.AssemblyReference.cache
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\obj\Debug\testeGhithub.csproj.CoreCompileInputs.cache
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\obj\Debug\testeGhithub.exe
+D:\Users\kenedy.wfandrade\source\repos\testeGhithub\testeGhithub\obj\Debug\testeGhithub.pdb
